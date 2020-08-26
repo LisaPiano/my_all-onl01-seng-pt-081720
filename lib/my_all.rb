@@ -15,5 +15,3 @@ block_return_values = []
 
   end
 end
-
-end
